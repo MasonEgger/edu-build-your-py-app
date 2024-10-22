@@ -8,7 +8,9 @@ We want to minimize the barriers for learning Temporal, and we know that not eve
 
 The only thing you'll need besides an up-to-date Web browser is a GitHub account that you can log into from that browser, which allows the GitPod service to set up the exercise code you'll use during the course.
 
-Launch the exercise environment [here](https://gitpod.io/new/#https://github.com/temporalio/edu-build-your-py-app).
+Launch the exercise environment
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/masonegger/edu-101-python-code)
 
 ## How to Navigate to Your Files
 
