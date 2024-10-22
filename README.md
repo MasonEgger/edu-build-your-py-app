@@ -10,7 +10,7 @@ The only thing you'll need besides an up-to-date Web browser is a GitHub account
 
 Launch the exercise environment
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/masonegger/edu-101-python-code)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/masonegger/edu-build-your-py-app)
 
 ## How to Navigate to Your Files
 
